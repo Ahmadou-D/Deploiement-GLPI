@@ -34,7 +34,7 @@ Desactivation du compte administrateur par defaut et imposition de mots de passe
 
 Integration Active Directory 
 Mise en place de l'authentification LDAP permettant aux utilisateurs du domaine de se connecter avec leurs identifiants Active Directory habituels.
-Cette integration simplifie la gestion des comptes et ameliore l'experience utilisateur (SSO-like).
+Cette integration simplifie la gestion des comptes et ameliore l'experience utilisateur.
 
 Ahmadou DIALLO
 Etudiant à SUPINFO.
